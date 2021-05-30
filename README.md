@@ -1,2 +1,2 @@
-# c-sharp-win-form-apps
-Some C# windows form application examples for students
+# c-sharp-apps
+Some C# application examples for students
