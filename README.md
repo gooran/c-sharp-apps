@@ -1,2 +1,2 @@
-# c-sharp-apps
-Some C# application examples for students
+# Some C# application examples
+useful for students and teachers.
